@@ -1,5 +1,5 @@
 # WearSphere-Fashion-Annual-Analysis-Report-2022-Dashboard(Excel)
-# 📊WearSphere-Fashion-Annual-Analysis-Report-2022
+# 📊WearSphere-Fashion-Annual-Analysis-Report-2022 <a href="https://github.com/Tamang-Ajay/WearSphere-Fashion-Annual-Analysis-Report-2022-Dashboard-Excel-Project/blob/main/dashboard.png">View Dashboard</a>
 
 ## 📌Overview:
 I created an interactive sales dashboard in Excel as part of a self-learning project to analyze 2022 sales data for a fictional e-commerce brand. This project helped me explore sales trends by gender, age, region, and channels—enhancing my skills in data cleaning, pivot tables, and visualization.
@@ -28,7 +28,7 @@ Key challenges I tackled included:
 This self-initiated project helped me build confidence and apply my skills in a practical, business-focused way.
 
 ## ❗ Note
-The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href=""> View Sample File</a>
+The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://github.com/Tamang-Ajay/WearSphere-Fashion-Annual-Analysis-Report-2022-Dashboard-Excel-Project/blob/main/wearsphere%20sample%20dataset.csv"> View Sample File</a>
 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
