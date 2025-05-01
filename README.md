@@ -15,13 +15,13 @@ Key challenges I tackled included:
 ## 🛠Tools Used:
 - Excel (Data Cleaning & Formatting, Pivot Tables, Charts, Slicers, KPI Metrics) 
 
-##🔧What I Did:
+## 🔧What I Did:
 - Cleaned and organized the dataset for accurate analysis
 - Built pivot tables and dynamic summaries in Excel
 - Designed interactive charts (bar, pie, and conditional formatting) for visualization
 - Delivered a full sales breakdown by key segments
 
-##💡Impact:
+## 💡Impact:
 - Gained practical experience simulating real-world data projects
 - Strengthened skills in Excel, data storytelling, and dashboard creation
 - Created a user-friendly report that supports data-driven decisions
